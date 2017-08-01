@@ -32,5 +32,16 @@ class TestSiskel < Minitest::Test
   #   assert_equal "Movie not found!", movie.title
   # end
 
+  # def test_director
+  #   movie = Siskel.new("Kill Bill: Vol. 2")
+  #   assert_equal "Quentin Tarantino", movie.director
+  # end
+
+  # def test_director_movies
+  #   movie = Siskel.new("Reservoir Dogs")
+  #   assert_equal 7, movie.director_movies.length
+  # end
+
+
 
 end
